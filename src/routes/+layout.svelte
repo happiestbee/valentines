@@ -1,5 +1,7 @@
 <script lang="ts">
 	import '../app.postcss';
-</script>
+	export const prerender = true;
 
+
+</script>
 <slot />
