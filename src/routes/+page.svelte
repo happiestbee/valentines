@@ -29,7 +29,7 @@
 
 </script>
 
-<div class="h-screen mx-auto flex justify-center items-center px-5 text-center	">
+<div class="h-screen mx-auto flex justify-center items-center px-5 text-center">
 	<div class="space-y-12">
 		{#if !yes}
 		<img src={img} alt="Peach Goma" class="w-[24rem] shadow-xl dark:shadow-gray-800 rounded-lg mx-auto"/>
